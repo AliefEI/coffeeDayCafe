@@ -1,0 +1,86 @@
+
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url('https://static6.depositphotos.com/1000419/652/v/950/depositphotos_6524646-stock-illustration-coffee-time-seamless-background-for.jpg');
+  background-size: cover;
+}
+img{
+  height: 250px;
+}
+
+
+.containerBoba{
+  /* width:100%; */
+  background-color: antiquewhite;
+  margin-left:10%;
+  margin-right:10%;
+  padding-top: 1%;
+  padding-bottom: 5%;
+}
+
+.rightSide{
+  position: relative;
+  top: -35px;
+  /* background-color: black; */
+  /* padding-bottom: 10%;
+  padding-right: 5px; */
+}
+
+/* .container{
+  background-color: rgb(153, 117, 62);
+} */
+
+/* li{
+  border: brown 1px solid;
+  width: 90%; 
+  height: auto;
+}  */
+
+h3,h4{
+  text-align: center;
+  font-weight:bolder;
+}
+
+h2{
+  font-size: 3.75rem;
+}
+
+.jumbotron{
+width: 40%;
+font-size: 10px;
+background-color: burlywood;
+height: 700px;
+}
+
+.messages{
+  padding:5%;
+  font-size: 15px;
+  margin-left:25%;
+  font-weight: bolder;
+  background-color: rgb(236, 201, 155);
+  width: 55%;
+}
+.cashierContainer{
+  position:absolute;
+  bottom:19%;
+  right:10%;
+  background-color: antiquewhite;
+  width:45%;
+  height:70%;
+  text-align: center;
+}
+.well{
+padding:5%;
+margin-left:10%;
+font-size: 15px;
+}
+.cashierTitle{
+  /* padding: 5%; */
+  margin:10%;
+  font-size: 18px;
+}
+
+button{
+  margin:5%;
+}
